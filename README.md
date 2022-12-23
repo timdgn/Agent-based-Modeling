@@ -21,7 +21,7 @@ Agent-based modeling is a useful tool for evaluating the impacts of exposures on
 ### How to test it ?
 
 1. Download the free NetLogo software from https://ccl.northwestern.edu/netlogo/index.shtml
-2. Download the file "Word of Mouth Game.nlogo" from this repository
+2. Download the file [Word of Mouth Game.nlogo](https://github.com/timdgn/Agent-based-Modeling/blob/main/Word%20of%20Mouth%20Game.nlogo) from this repository
 3. Open the file with NetLogo and play with the parameters to simulate the population
 
 ### Why this model ?
